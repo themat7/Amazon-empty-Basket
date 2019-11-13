@@ -4,3 +4,4 @@ chrome.browserAction.onClicked.addListener(function(tabs) {
 
 console.log("hello");
 //AMAZON SCRIPT--Removes items from cart
+//Runs main stuff when the icon is clicked
